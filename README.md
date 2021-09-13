@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there, this is Yida Yao. 👋 I am a electrical engineering graduate student in UPenn.
 
 <!--
-**yidayao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yidayao/yidayao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
